@@ -1,0 +1,20 @@
+
+div.sensor {
+    border: 1px solid black;
+    margin: 5px;
+    float: left;
+}
+
+svg, #buzzer, #sound {
+    width: 300;
+    height: 300;
+    display: block;
+}
+
+circle, ellipse, path, rect {
+    fill: #bbb;
+}
+
+.black {
+    fill: #000;
+}
